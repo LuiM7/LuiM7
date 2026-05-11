@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hola, soy Luis 👋
 
-<!--
-**LuiM7/LuiM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Tecnología en Desarrollo de Software** en el Instituto Tecnológico de las Américas (ITLA), República Dominicana. Me apasiona construir cosas — desde aplicaciones de escritorio hasta videojuegos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías & Herramientas
+
+**Lenguajes**
+`C#` `Python` `JavaScript` `HTML` `CSS`
+
+**Frameworks & Librerías**
+`Bootstrap 5` `Electron`
+
+**Herramientas**
+`Godot 4` `Git` `VS Code` `Pixelorama`
+
+---
+
+## 🚀 Proyectos
+
+### 🏪 SellSys
+Aplicación de punto de venta (POS) de escritorio construida con Electron.
+Incluye seguridad con PIN, gestión de inventario y generación de recibos.
+> `Electron` `JavaScript` `HTML/CSS`
+
+### 🎮 Videojuego RPG *(en desarrollo)*
+Videojuego RPG en pixel art 3D desarrollado en Godot 4.
+> `Godot 4` `GDScript` `Pixel Art`
+
+### 💳 Integración de Pagos en Sitios Web
+Implementación de pasarelas de pago en aplicaciones web, permitiendo transacciones seguras en línea.
+> `JavaScript` `HTML/CSS` `APIs de pago`
+
+
+## 🌱 Actualmente aprendiendo
+
+- Python
+- C++
+- Estructuras de datos en C#
+- Desarrollo de videojuegos con Godot 4
+- Diseño web con Bootstrap 5
+- R
+
+---
+
+*República Dominicana 🇩🇴*
